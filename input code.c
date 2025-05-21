@@ -119,10 +119,6 @@ void infoMenu(){
 		send_a_string("     THANKS TO");//displaying a string
 		send_a_command(0x80 + 0x40 +0);// moving courser to second line of LCD
 		send_a_string("   Shashwat Anand");//displaying a string
-		send_a_command(0x94);// moving courser to third line of LCD
-		send_a_string("    Rahul Raj");//displaying a string
-		send_a_command(0xD4);// moving courser to forth line of LCD
-		send_a_string("   Abhay Kumar");//displaying a string
 		
 		
 		while(1){
