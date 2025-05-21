@@ -63,7 +63,7 @@ This is a simulated **Electronic Voting Machine (EVM)** built using the **ATmega
 
 ---
 
-## 🖼️ Project Images
+## 🖼️ Simulation Image 
 
 <img src="EVM_Machine.png" alt="EVM_Machine.png" width="500"/>
 
