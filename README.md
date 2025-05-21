@@ -45,3 +45,9 @@ This is a simulated **Electronic Voting Machine (EVM)** built using the **ATmega
 | 20x4 LCD Display   | Display interface                 |
 
 ---
+## 📝 How to Run
+
+1. Open `EVM Machine.pdsprj` in **Proteus**.
+2. Load `EVM Machine Code.hex` into the ATmega32 microcontroller in the Proteus simulation.
+3. Run the simulation.
+4. Use the **keypad** to cast votes and view results on the **LCD**.
