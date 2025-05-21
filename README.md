@@ -51,3 +51,12 @@ This is a simulated **Electronic Voting Machine (EVM)** built using the **ATmega
 2. Load `EVM Machine Code.hex` into the ATmega32 microcontroller in the Proteus simulation.
 3. Run the simulation.
 4. Use the **keypad** to cast votes and view results on the **LCD**.
+
+---
+
+## 👨‍💻 Author
+
+**Shashwat**
+
+- [GitHub](https://github.com/shashwatanand29)
+- [LinkedIn](https://www.linkedin.com/in/shashwat-anand-b85509209)
